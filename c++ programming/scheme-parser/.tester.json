@@ -1,0 +1,13 @@
+{
+    "allow_change": [
+        "../scheme/*.cpp",
+        "../scheme/*.h",
+        "../scheme/test/scheme_test.cpp",
+        "../scheme/test/scheme_test.h",
+        "../scheme/CMakeLists.txt",
+        ".keep"
+    ],
+
+    "tests": "test_scheme_parser",
+    "solutions": "private"
+}

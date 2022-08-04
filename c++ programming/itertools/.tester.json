@@ -1,0 +1,5 @@
+{
+    "allow_change": "itertools.h",
+    "tests": "test_itertools",
+    "solutions": "private"
+}

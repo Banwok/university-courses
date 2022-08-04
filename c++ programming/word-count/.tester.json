@@ -1,0 +1,5 @@
+{
+    "allow_change": "word_count.h",
+    "tests": "test_word_count",
+    "solutions": "private"
+}

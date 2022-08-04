@@ -1,0 +1,5 @@
+{
+    "allow_change": "binpow.h",
+    "tests": "test_binpow",
+    "solutions": "private"
+}

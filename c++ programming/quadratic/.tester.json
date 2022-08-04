@@ -1,0 +1,5 @@
+{
+    "allow_change": "quadratic.h",
+    "tests": "test_quadratic",
+    "solutions": "private"
+}

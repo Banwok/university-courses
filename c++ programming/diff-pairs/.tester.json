@@ -1,0 +1,5 @@
+{
+    "allow_change": "diff_pairs.h",
+    "tests": "test_diff_pairs",
+    "solutions": "private"
+}

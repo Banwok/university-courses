@@ -1,0 +1,5 @@
+{
+    "allow_change": "split.h",
+    "tests": "test_split",
+    "solutions": "private"
+}

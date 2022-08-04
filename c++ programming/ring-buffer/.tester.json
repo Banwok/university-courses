@@ -1,0 +1,11 @@
+{
+    "allow_change": "ring_buffer.h",
+    "tests": "test_ring_buffer",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "#include\\s*<queue>",
+        "std\\s*::\\s*queue",
+        "#include\\s*<deque>",
+        "std\\s*::\\s*deque"
+    ]
+}

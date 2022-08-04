@@ -1,0 +1,13 @@
+{
+    "allow_change": [
+        "*.cpp",
+        "*.h",
+        "test/scheme_test.cpp",
+        "test/scheme_test.h",
+        "CMakeLists.txt"
+    ],
+
+    "tests": "test_scheme",
+    "solutions": "private",
+    "build_type": "RELEASE"
+}

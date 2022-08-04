@@ -1,0 +1,11 @@
+{
+  "allow_change": "deque.h",
+  "tests": "test_deque",
+  "solutions": "private",
+  "forbidden_regexp": [
+    "std\\s*::\\s*vector",
+    "#include\\s*<vector>",
+    "std\\s*::\\s*deque",
+    "#include\\s*<deque>"
+  ]
+}

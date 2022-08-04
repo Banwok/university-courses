@@ -1,0 +1,5 @@
+{
+    "allow_change": "rogue.h",
+    "tests": "test_dungeon",
+    "solutions": "private"
+}

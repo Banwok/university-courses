@@ -1,0 +1,5 @@
+{
+    "allow_change": "entrance.h",
+    "tests": "test_entrance",
+    "solutions": "private"
+}

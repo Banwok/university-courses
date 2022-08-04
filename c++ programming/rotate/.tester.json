@@ -1,0 +1,9 @@
+{
+    "allow_change": "rotate.h",
+    "tests": "test_rotate",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "std\\s*::\\s*rotate",
+        "#include\\s*<algorithm>"
+    ]
+}

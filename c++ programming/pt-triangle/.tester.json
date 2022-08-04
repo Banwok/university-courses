@@ -1,0 +1,5 @@
+{
+    "allow_change": "point_triangle.h",
+    "tests": "test_pt_triangle",
+    "solutions": "private"
+}

@@ -1,0 +1,5 @@
+{
+    "allow_change": "lru_cache.h",
+    "tests": "test_lru_cache",
+    "solutions": "private"
+}

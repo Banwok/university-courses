@@ -1,0 +1,5 @@
+{
+    "allow_change": "polish_notation.h",
+    "tests": "test_polish_notation",
+    "solutions": "private"
+}

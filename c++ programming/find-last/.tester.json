@@ -1,0 +1,5 @@
+{
+    "allow_change": "find_last.h",
+    "tests": "test_find_last",
+    "solutions": "private"
+}

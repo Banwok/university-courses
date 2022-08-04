@@ -1,0 +1,9 @@
+{
+    "allow_change": "partition.h",
+    "tests": "test_partition",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "#include\\s*<algorithm>",
+        "std\\s*::\\s*partition"
+    ]
+}

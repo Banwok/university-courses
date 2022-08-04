@@ -1,0 +1,5 @@
+{
+    "allow_change": "war.h",
+    "tests": "test_war",
+    "solutions": "private"
+}

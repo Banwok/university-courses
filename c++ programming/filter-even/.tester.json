@@ -1,0 +1,9 @@
+{
+    "allow_change": "filter_even.h",
+    "tests": "test_filter_even",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "#include\\s*<algorithm>",
+        "std\\s*::\\s*remove"
+    ]
+}

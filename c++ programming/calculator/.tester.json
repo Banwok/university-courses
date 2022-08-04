@@ -1,0 +1,5 @@
+{
+    "allow_change": "calculator.h",
+    "tests": "test_calculator",
+    "solutions": "private"
+}

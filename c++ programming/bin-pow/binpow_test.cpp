@@ -1,0 +1,18 @@
+#include <catch.hpp>
+
+#include <binpow.h>
+
+TEST_CASE("Small") {
+    REQUIRE(8 == BinPow(2, 3, 19));
+    REQUIRE(1 == BinPow(3, 0, 19));
+    REQUIRE(27 == BinPow(3, 3, 100));
+    REQUIRE(1 == BinPow(3, 4, 20));
+    REQUIRE(536 == BinPow(4, 8, 1000));
+}
+
+TEST_CASE("Big") {
+    REQUIRE(1 == BinPow(1, 374834758345LL, 129237));
+    REQUIRE(719476260 == BinPow(2, 1000000000000000000LL, 1000000007));
+    REQUIRE(43181159 == BinPow(17239, 1000000000000000LL - 1, 100000000));
+    REQUIRE(78360 == BinPow(203042322, 82392839238824787LL, 92374));
+}

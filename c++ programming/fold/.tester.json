@@ -1,0 +1,9 @@
+{
+    "allow_change": "fold.h",
+    "tests": "test_fold",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "#include\\s*<algorithm>",
+        "std\\s*::\\s*accumulate"
+    ]
+}

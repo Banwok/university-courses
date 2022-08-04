@@ -1,0 +1,5 @@
+{
+    "allow_change": "reverse_map.h",
+    "tests": "test_reverse_map",
+    "solutions": "private"
+}

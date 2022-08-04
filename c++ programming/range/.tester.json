@@ -1,0 +1,5 @@
+{
+    "allow_change": "range.h",
+    "tests": "test_range",
+    "solutions": "private"
+}

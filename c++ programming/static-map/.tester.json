@@ -1,0 +1,11 @@
+{
+    "allow_change": "static_map.h",
+    "tests": "test_static_map",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "#include\\s*<map>",
+        "#include\\s*<unordered_map>",
+        "std\\s*::\\s*map",
+        "std\\s*::\\s*unordered_map"
+    ]
+}

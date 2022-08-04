@@ -1,0 +1,9 @@
+{
+    "allow_change": "permutations.h",
+    "tests": "test_permutations",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "std\\s*::\\s*next_permutation",
+        "#include\\s*<algorithm>"
+    ]
+}

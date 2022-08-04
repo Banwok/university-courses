@@ -1,0 +1,10 @@
+{
+    "allow_change": "smart_ptr.h",
+    "tests": "test_smart_ptr",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "std\\s*::\\s*weak_ptr",
+        "std\\s*::\\s*shared_ptr",
+        "#include\\s*<memory>"
+    ]
+}

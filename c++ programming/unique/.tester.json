@@ -1,0 +1,9 @@
+{
+    "allow_change": "unique.h",
+    "tests": "test_unique",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "std\\s*::\\s*unique",
+        "#include\\s*<algorithm>"
+    ]
+}

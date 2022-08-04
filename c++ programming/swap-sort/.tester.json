@@ -1,0 +1,10 @@
+{
+    "allow_change": "swap_sort.h",
+    "tests": "test_swap_sort",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "std\\s*::\\s*swap",
+        "std\\s*::\\s*sort",
+        "#include\\s*<algorithm>"
+    ]
+}

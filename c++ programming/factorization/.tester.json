@@ -1,0 +1,5 @@
+{
+    "allow_change": "factorization.h",
+    "tests": "test_factorization",
+    "solutions": "private"
+}

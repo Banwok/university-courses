@@ -1,0 +1,5 @@
+{
+    "allow_change": "cow_vector.h",
+    "tests": "test_cow_vector",
+    "solutions": "private"
+}

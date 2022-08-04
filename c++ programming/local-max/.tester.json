@@ -1,0 +1,5 @@
+{
+    "allow_change": "local_max.h",
+    "tests": "test_local_max",
+    "solutions": "private"
+}

@@ -1,0 +1,5 @@
+{
+    "allow_change": "long_sum.h",
+    "tests": "test_long_sum",
+    "solutions": "private"
+}

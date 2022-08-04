@@ -1,0 +1,9 @@
+{
+    "allow_change": "stack.h",
+    "tests": "test_stack",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "#include\\s*<stack>",
+        "std\\s*::\\s*stack"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "allow_change": "vector.h",
+    "tests": "test_vector",
+    "solutions": "private",
+    "forbidden_regexp": [
+        "std\\s*::\\s*vector",
+        "#include\\s*<vector>",
+        "std\\s*::\\s*deque",
+        "#include\\s*<deque>",
+        "std\\s*::\\s*unique_ptr",
+        "std\\s*::\\s*shared_ptr",
+        "#include\\s*<memory>"
+    ]
+}
