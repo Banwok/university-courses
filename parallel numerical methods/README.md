@@ -22,7 +22,7 @@ $A=LU$, где $L$ — нижняя треугольная матрица, а $U
 #### Ограничения на размер задачи
 Размерность матрицы $n≤3000.$
 #### Решение 
-[contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+[lu_decomposition.cpp](https://github.com/Banwok/university-courses/blob/main/parallel%20numerical%20methods/lu_decomposition.cpp).
 
 ### Метод бисопряжённых градиентов (СЛАУ)
 	Вход: аргументы функции
@@ -59,7 +59,7 @@ $Ax=b$, где $A$ – разреженная квадратная положи�
 #### Ограничения на размер задачи
 Размерность матрицы $n≤10000$, число ненулевых элементов $nz≤10^7$.
 #### Решение 
-[contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+[biconjugate gradients.cpp](https://github.com/Banwok/university-courses/blob/main/parallel%20numerical%20methods/biconjugate%20gradients.cpp).
 
 ### Метод Кранка-Николсона для уравнения теплопроводности (редукция)
 	Вход: аргументы функции
@@ -100,4 +100,4 @@ $|R_{theory}−R_{numeric}|<0.1$
 #### Ограничения на размер задачи
 Размерности сетки $nm≤2^{25}, n=2^q,$ где $q$ - целое неотрицательное число.
 #### Решение 
-[contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+[Crank-Nicholson.cpp](https://github.com/Banwok/university-courses/blob/main/parallel%20numerical%20methods/Crank-Nicholson.cpp).
